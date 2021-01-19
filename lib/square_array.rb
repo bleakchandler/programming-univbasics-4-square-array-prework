@@ -1,6 +1,6 @@
 def square_array(array)
   
-  sqr_number = []
+  square_array = []
    puts array
   counter = 0
   
