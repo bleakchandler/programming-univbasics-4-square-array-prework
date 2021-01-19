@@ -1,7 +1,6 @@
 def square_array(array)
   
   square_array = []
-  
   counter = 0
   
  while counter < 3
